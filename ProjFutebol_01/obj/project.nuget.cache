@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GUuf4JfCOrM5dFbrQO4ND+1NDWzC4z59WIYlT4O5RXYkxasvN6Ae08uOFxFqB+3gh8Mj3EhXHh9q1boh6MJefw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cliente\\Desktop\\Particular\\Meus arquivos\\Outros\\Programação\\3º Período\\Programação Orientada a Objetos\\Atividade 04 - Programação Orientada a Objetos\\Projeto Futebol\\ProjFutebol_01\\ProjFutebol_01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
